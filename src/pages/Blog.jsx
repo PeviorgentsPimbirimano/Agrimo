@@ -8,7 +8,7 @@ import {
     FaSearch,
 } from "react-icons/fa";
 import { useLocation } from "react-router-dom";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 
 const categories = [
     "All",

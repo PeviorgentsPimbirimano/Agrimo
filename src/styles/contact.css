@@ -138,7 +138,7 @@
 .contact-serv-form textarea {
   height: 120px;
   resize: none;
-  background: rgba(255, 255, 255, 0.8) url('/form-bg.png') no-repeat bottom right;
+  background: rgba(255, 255, 255, 0.8);
   background-size: contain;
 }
 
