@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { FaCircle, FaPhoneVolume, FaSearch } from 'react-icons/fa'
 import ServCard from '../components/ServCard'
 import "../styles/services.css"
-import Footer from '../components/footer'
+import Footer from "../components/footer";
 import {useLocation } from "react-router-dom";
 
 const Services = () => {

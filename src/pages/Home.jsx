@@ -4,7 +4,7 @@ import { FaSearch, FaPhoneVolume, FaCircle } from "react-icons/fa";
 import StatsCard from '../components/stats';
 import ImagesCarousel from '../components/ImagesCarousel';
 import TestCard from '../components/TestCard';
-import Footer from '../components/footer';
+import Footer from "../components/footer";
 import { Link } from "react-router-dom";
 import ServCard from "../components/ServCard";
 import {useLocation } from "react-router-dom";
